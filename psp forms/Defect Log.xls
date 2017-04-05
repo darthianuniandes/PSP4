@@ -1,0 +1,56 @@
+<HTML><HEAD><TITLE>Defect Log for Ian Sarasty Medina for /Non Project/PSP Fundamentals &amp; Advanced/Program 5</TITLE>
+<notlink rel="stylesheet" type="text/css" href="/style.css"><notlink rel="stylesheet" type="text/css" href="/reports/defectReports.css"></HEAD>
+<BODY><H1>Defect Log for /Non Project/PSP Fundamentals &amp; Advanced/Program 5</H1><!-- cutStart -->
+<p><table border class='defectLog'><tr>
+<th>Project/Task</th>
+<th>Date</th>
+<th>ID</th>
+<th>Type</th>
+<th>Injected</th>
+<th>Removed</th>
+<th>FixTime</th>
+<th>FixCount</th>
+<th>FixDefect</th>
+<th>Pending</th>
+<th>Description</th></tr><TR>
+<TD>/Non Project/PSP Fundamentals &amp; Advanced/Program 5</TD>
+<TD>04/02/2017</TD>
+<TD>1</TD>
+<TD>Syntax</TD>
+<TD>Code Review</TD>
+<TD>Code Review</TD>
+<TD ALIGN='center'>0.4</TD>
+<TD ALIGN='center'>1</TD>
+<TD ALIGN='center'></TD>
+<TD ALIGN='center'></TD>
+<TD>Se evidencia un posible ciclo infinito</TD>
+</TR>
+<TR>
+<TD>/Non Project/PSP Fundamentals &amp; Advanced/Program 5</TD>
+<TD>04/02/2017</TD>
+<TD>2</TD>
+<TD>Syntax</TD>
+<TD>Code Review</TD>
+<TD>Code Review</TD>
+<TD ALIGN='center'>0.5</TD>
+<TD ALIGN='center'>1</TD>
+<TD ALIGN='center'></TD>
+<TD ALIGN='center'></TD>
+<TD>Se evidencia una mala sintaxis en la invocacion de un metodo de la libreria Math</TD>
+</TR>
+<TR>
+<TD>/Non Project/PSP Fundamentals &amp; Advanced/Program 5</TD>
+<TD>04/02/2017</TD>
+<TD>3</TD>
+<TD>Data</TD>
+<TD>Compile</TD>
+<TD>Test</TD>
+<TD ALIGN='center'>0.6</TD>
+<TD ALIGN='center'>1</TD>
+<TD ALIGN='center'></TD>
+<TD ALIGN='center'></TD>
+<TD>Se detecta un fallo en el calculo de la funcion gamma. Se re construye esta funcion.</TD>
+</TR>
+</table></p><!-- cutEnd --><P class='doNotPrint'><A HREF="excel.iqy"><I>Export to Excel</I></A></P>
+</BODY></HTML>
+
