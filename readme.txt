@@ -11,8 +11,8 @@ La aplicación soporta que ingrese la ruta completa de un archivo llamado “num
 
 
 GIT REPOSITORY: 
-git@github.com:darthianuniandes/PSP3.git
-https://github.com/darthianuniandes/PSP3.git
+git@github.com:darthianuniandes/PSP4.git
+https://github.com/darthianuniandes/PSP4.git
 
 HEROKU URL:
 https://thawing-ridge-87904.herokuapp.com/psp4
